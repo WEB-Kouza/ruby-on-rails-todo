@@ -34,4 +34,5 @@ gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
 ```
 
-## bundle install
+## gem file追加後
+1. bundle install

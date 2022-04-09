@@ -30,3 +30,6 @@ Scaffold によるモデル、ビュー、コントローラの作成
 ビューの編集 (html の編集)
 ビューの編集 (ajax の編集)
 データベース設計について学ぶ 多対多の関係
+
+#scss
+https://udemy.benesse.co.jp/design/web-design/sass.html
