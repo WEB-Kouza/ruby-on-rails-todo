@@ -1,4 +1,6 @@
+## github
 https://github.com/WEB-Kouza/ruby-on-rails-todo
+
 bundle install
 # ruby-on-rails-todo
 ## Ruby 2.6.3
@@ -33,4 +35,3 @@ gem 'jquery-rails'
 ```
 
 ## bundle install
-bundle install
